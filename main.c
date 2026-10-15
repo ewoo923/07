@@ -1,5 +1,5 @@
 #include <stdio.h>
-int all_flies;
+static int all_flies;
 
 extern void sub();
 
